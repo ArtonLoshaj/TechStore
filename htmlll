@@ -1,3 +1,22 @@
-sdsdsdsds
-fffvsfvvfsvsfv
-Arton
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Store</title>
+    <link rel="stylesheet" href="TechStore.css">
+</head>
+<body>
+    <div class="hero">
+        <nav>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">About us</a></li>
+                <li><a href="">Contact us</a></li>
+                <li><a href="">Products</a></li>
+            </ul>
+            <button type="button"><span></span></button>
+        </nav>
+    </div>
+</body>
+
+</html>
